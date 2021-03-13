@@ -1,4 +1,4 @@
-a# Guess My Number
+# Guess My Number
 
 Guess My Number is a simple classic game
 
